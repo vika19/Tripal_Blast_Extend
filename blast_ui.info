@@ -1,0 +1,6 @@
+name = BLAST UI
+description = Provides a user interface to allow your users to utilize NCBI's BLAST+ on your server.  Modified by NCGAS to include a link to loaded JBrowse Instances
+configure = admin/tripal/extension/tripal_blast/blast_ui
+project = tripal_blast
+package = NCGAS
+core = 7.x
